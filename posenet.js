@@ -54,7 +54,6 @@ function draw() {
 }
 
 function modelReady(){
-  // select('#text').html('Hmm... What is it? It’s time to move! AI has turned on. You can insert your text here.')
 }
 
 var rightEye, leftEye, rightShoulder, leftShoulder, rightWrist, leftWrist, rightKnee,
