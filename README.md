@@ -1,2 +1,2 @@
 # Posture Correction
-Basic Posture Correction using TFJS
+Basic Posture Correction using Tensor Flow Js
